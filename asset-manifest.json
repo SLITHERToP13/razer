@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.445683ac.css",
-    "main.js": "/static/js/main.75b8de29.js",
+    "main.css": "/static/css/main.a8909df7.css",
+    "main.js": "/static/js/main.6a23ed83.js",
     "static/media/iphone2.jpg": "/static/media/iphone2.d268e8bce7dcefe7f19b.jpg",
     "static/media/iphone3.jpg": "/static/media/iphone3.a3af1219ca17ee677674.jpg",
     "static/media/iphone.jpg": "/static/media/iphone.13ece4ea997fd66f9fd2.jpg",
     "static/media/razer.svg": "/static/media/razer.0d25071aa9e861bf55d7f240475a2ff1.svg",
     "index.html": "/index.html",
     "static/media/carz.svg": "/static/media/carz.6903a7f82df5a6bb15f7abf28851559d.svg",
-    "main.445683ac.css.map": "/static/css/main.445683ac.css.map",
-    "main.75b8de29.js.map": "/static/js/main.75b8de29.js.map"
+    "main.a8909df7.css.map": "/static/css/main.a8909df7.css.map",
+    "main.6a23ed83.js.map": "/static/js/main.6a23ed83.js.map"
   },
   "entrypoints": [
-    "static/css/main.445683ac.css",
-    "static/js/main.75b8de29.js"
+    "static/css/main.a8909df7.css",
+    "static/js/main.6a23ed83.js"
   ]
 }
